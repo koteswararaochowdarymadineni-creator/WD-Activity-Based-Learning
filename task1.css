@@ -32,7 +32,6 @@ h1, h2, h3 {
     margin: 0 auto;
 }
 
-/* Header */
 .header {
     background-color: var(--white);
     padding: 20px 0;
@@ -88,7 +87,6 @@ h1, h2, h3 {
     opacity: 0.9;
 }
 
-/* Hero Section */
 .hero {
     background: linear-gradient(rgba(47, 62, 70, 0.4), rgba(47, 62, 70, 0.4)), url('https://images.unsplash.com/photo-1545205597-3d9d02c29597?auto=format&fit=crop&q=80&w=1600') no-repeat center center/cover;
     height: 85vh;
@@ -142,8 +140,6 @@ h1, h2, h3 {
     background-color: var(--primary-color);
     color: var(--white);
 }
-
-/* General Section Layout */
 .section {
     padding: 80px 0;
 }
@@ -166,14 +162,12 @@ h1, h2, h3 {
     color: var(--text-light);
 }
 
-/* Grids */
 .grid-3 {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 30px;
 }
 
-/* Cards (Yoga Poses) */
 .card {
     background: var(--white);
     border-radius: 12px;
@@ -211,7 +205,6 @@ h1, h2, h3 {
     font-size: 0.95rem;
 }
 
-/* Instructor Cards */
 .instructor-card {
     text-align: center;
     background: var(--white);
@@ -251,7 +244,6 @@ h1, h2, h3 {
     font-size: 0.9rem;
 }
 
-/* Schedule Table */
 .table-container {
     overflow-x: auto;
 }
@@ -285,7 +277,6 @@ h1, h2, h3 {
     font-size: 0.95rem;
 }
 
-/* Pricing / Membership Cards */
 .pricing-card {
     background: var(--white);
     border: 1px solid #EAE5D9;
@@ -362,8 +353,6 @@ h1, h2, h3 {
 .pricing-card .btn-primary, .pricing-card .btn-outline {
     text-align: center;
 }
-
-/* Footer */
 .footer {
     background-color: var(--text-dark);
     color: var(--white);
@@ -381,7 +370,7 @@ h1, h2, h3 {
     margin-top: 10px;
 }
 
-/* Responsive Design Adjustments */
+
 @media(max-width: 768px) {
     .nav-menu {
         display: none; /* Can be expanded with a hamburger menu for complete mobile functionality */
