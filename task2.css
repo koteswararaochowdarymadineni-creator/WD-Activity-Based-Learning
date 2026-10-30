@@ -1,4 +1,4 @@
-/* CSS Reset & Variables */
+
 * {
     margin: 0;
     padding: 0;
@@ -34,7 +34,6 @@ h1, h2, h3 {
     margin: 0 auto;
 }
 
-/* Header & Navigation */
 .header {
     background-color: var(--white);
     padding: 20px 0;
@@ -79,7 +78,6 @@ h1, h2, h3 {
     color: var(--primary-color);
 }
 
-/* Buttons */
 .btn-primary, .btn-outline {
     display: inline-block;
     padding: 12px 28px;
@@ -111,7 +109,6 @@ h1, h2, h3 {
     color: var(--white);
 }
 
-/* Hero Section */
 .hero {
     background: linear-gradient(rgba(27, 38, 59, 0.65), rgba(27, 38, 59, 0.65)), url('https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&q=80&w=1600') no-repeat center center/cover;
     height: 85vh;
@@ -155,7 +152,6 @@ h1, h2, h3 {
     color: var(--text-dark);
 }
 
-/* Sections General */
 .section {
     padding: 80px 0;
 }
@@ -178,7 +174,6 @@ h1, h2, h3 {
     color: var(--text-light);
 }
 
-/* Grids */
 .grid-3 {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
@@ -191,7 +186,6 @@ h1, h2, h3 {
     gap: 20px;
 }
 
-/* Food Category Cards */
 .category-card {
     height: 180px;
     border-radius: 12px;
@@ -240,7 +234,6 @@ h1, h2, h3 {
     transform: translateY(-5px);
 }
 
-/* Recipe Cards */
 .recipe-card {
     background: var(--white);
     border-radius: 12px;
@@ -313,7 +306,6 @@ h1, h2, h3 {
     padding-top: 12px;
 }
 
-/* Meal Plan Cards */
 .plan-card {
     background: var(--white);
     border: 1px solid #E2E8F0;
@@ -382,7 +374,6 @@ h1, h2, h3 {
     text-align: center;
 }
 
-/* Tip Cards */
 .tip-card {
     background: var(--white);
     padding: 30px;
@@ -410,7 +401,6 @@ h1, h2, h3 {
     font-size: 0.95rem;
 }
 
-/* Footer */
 .footer {
     background-color: var(--text-dark);
     color: var(--white);
@@ -428,7 +418,6 @@ h1, h2, h3 {
     margin-top: 10px;
 }
 
-/* Responsive Styles */
 @media(max-width: 768px) {
     .nav-menu {
         display: none;
