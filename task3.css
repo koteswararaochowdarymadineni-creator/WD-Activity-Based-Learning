@@ -1,4 +1,4 @@
-/* CSS Reset & Variables */
+
 * {
     margin: 0;
     padding: 0;
@@ -80,8 +80,6 @@ h1, h2, h3, h4 {
 .nav-menu a:hover {
     color: var(--primary-color);
 }
-
-/* Buttons */
 .btn-primary, .btn-outline {
     display: inline-block;
     padding: 12px 28px;
@@ -124,7 +122,6 @@ h1, h2, h3, h4 {
     width: 100%;
 }
 
-/* Hero Section */
 .hero {
     background: linear-gradient(rgba(18, 18, 18, 0.75), rgba(18, 18, 18, 0.75)), url('https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&q=80&w=1600') no-repeat center center/cover;
     height: 90vh;
@@ -162,7 +159,6 @@ h1, h2, h3, h4 {
     gap: 20px;
 }
 
-/* Sections General */
 .section {
     padding: 90px 0;
 }
@@ -195,14 +191,12 @@ h1, h2, h3, h4 {
     color: var(--text-light);
 }
 
-/* Grids */
 .grid-3 {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
     gap: 30px;
 }
 
-/* Workout Programs Cards */
 .program-card {
     height: 350px;
     border-radius: 8px;
@@ -248,8 +242,6 @@ h1, h2, h3, h4 {
 .program-card:hover {
     transform: translateY(-8px);
 }
-
-/* Trainer Cards */
 .trainer-card {
     background-color: var(--bg-card);
     border-radius: 8px;
@@ -297,7 +289,6 @@ h1, h2, h3, h4 {
     border-color: var(--primary-color);
 }
 
-/* Fitness Facility Cards */
 .facility-card {
     background-color: var(--white);
     border-radius: 8px;
@@ -334,7 +325,6 @@ h1, h2, h3, h4 {
     transform: translateY(-5px);
 }
 
-/* Schedule Table */
 .table-container {
     overflow-x: auto;
 }
@@ -375,7 +365,6 @@ h1, h2, h3, h4 {
     font-weight: 600;
 }
 
-/* Membership Pricing Cards */
 .pricing-card {
     background-color: var(--white);
     border: 1px solid #E2E8F0;
@@ -465,7 +454,7 @@ h1, h2, h3, h4 {
     color: var(--white);
 }
 
-/* Registration Form */
+
 .form-wrapper {
     max-width: 600px;
     margin: 0 auto;
@@ -503,7 +492,6 @@ h1, h2, h3, h4 {
     border-color: var(--primary-color);
 }
 
-/* Footer */
 .footer {
     background-color: #0A0A0A;
     color: var(--white);
@@ -522,7 +510,6 @@ h1, h2, h3, h4 {
     margin-top: 10px;
 }
 
-/* Responsive Breakpoints */
 @media(max-width: 768px) {
     .nav-menu {
         display: none;
