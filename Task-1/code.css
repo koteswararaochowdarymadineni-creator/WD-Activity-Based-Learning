@@ -1,1 +1,56 @@
 
+body {
+    margin: 0;
+    font-family: Arial;
+    background: #fff8f0;
+    text-align: center;
+}
+
+header, footer {
+    background: brown;
+    color: white;
+    padding: 20px;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+#home {
+    background: linear-gradient(90deg, brown, orange);
+    color: white;
+    padding: 80px;
+}
+
+section {
+    padding: 30px;
+}
+
+.items div {
+    background: white;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+input {
+    padding: 10px;
+    margin: 10px;
+}
+
+button {
+    background: brown;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+}
+
+@media (max-width: 600px) {
+    nav a {
+        display: inline-block;
+    }
+}
+
+
