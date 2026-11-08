@@ -1,1 +1,39 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background: #fff0f5;
+    text-align: center;
+}
+
+header, footer {
+    background: #8b2252;
+    color: white;
+    padding: 20px;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+#home {
+    background: pink;
+    padding: 60px;
+}
+
+section {
+    padding: 25px;
+}
+
+h2 {
+    color: #8b2252;
+}
+
+@media (max-width: 600px) {
+    nav a {
+        display: inline-block;
+        margin: 5px;
+    }
+}
 
