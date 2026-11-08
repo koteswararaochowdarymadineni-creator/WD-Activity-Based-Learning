@@ -8,12 +8,8 @@ Subject:Web Development
 
  Projects
 
- 1. Yoga Website
-
-Project Description
-
-The Yoga Website is designed to promote physical and mental wellness through yoga practices, breathing exercises, and meditation. It provides users with information about different yoga poses and their benefits.
-
+ 1. Restaurant and Cafe Website
+ A restaurant website with menu sections, chef profiles, restaurant ambience, customer testimonials, opening hours, location details, and table reservation forms. Use a responsive menu and elegant typography.
 
 
 Technologies Used
@@ -21,11 +17,8 @@ Technologies Used
 - CSS
   
 
- 2. Fuel Your Body With Whole, Nutrient-Rich Foods
-
-Project Description
-
-This website promotes healthy eating habits by providing information about whole foods and nutrient-rich ingredients. It helps users understand the importance of balanced nutrition and making healthier food choices.
+ 2. Bakery and Cake Shop Website
+ A website for a bakery displaying cakes, pastries, cookies, custom cake designs, product prices, seasonal offers, and store contact details. Use a visually appealing color scheme and image galleries.
 
 
 Technologies Used
@@ -33,31 +26,17 @@ Technologies Used
 - CSS
 
 
- 3. Gym and Fitness Website
-
-Project Description
-
-The Gym and Fitness Website is designed to provide information about fitness programs, exercise routines, and gym facilities. It encourages users to maintain an active lifestyle and develop healthy fitness habits.
+ 3. Online Food Ordering Website
+    A food ordering interface with restaurant details, menu categories, food images, prices, special offers, customer reviews, and order buttons. Use card layouts, attractive backgrounds, and mobile-friendly navigation.
 
 Technologies Used
 - HTML
 - CSS
 
-
-3 Project Objectives
-
-- To develop practical web development skills.
-- To create attractive and user-friendly websites.
-- To promote yoga, healthy eating, and physical fitness.
-- To understand HTML, CSS, and JavaScript through practical projects.
-
-Conclusion
-
-These three projects demonstrate how web development can be used to promote wellness, healthy nutrition, and fitness. They provide practical experience in designing informative and responsive websites.
 
 Developed By
 
 M.Koteswara Rao
 Roll No.:26000257  
 Branch: CSE-4
-Subject: Web Development# WD-Activity-Based-Learning
+
