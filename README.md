@@ -1,9 +1,9 @@
  Web Development Activity-Based Learning (ABL)
 
  Student Details
-Name:M.Koteswara Rao
-Roll Number:26000257
-Branch:CSE-4
+Name:M.Koteswara Rao.
+Roll Number:26000257.
+Branch:CSE-4.
 Subject:Web Development
 
  Projects
