@@ -1,1 +1,60 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background: #fff5e6;
+    text-align: center;
+}
+
+header, footer {
+    background: #8b2500;
+    color: white;
+    padding: 20px;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+#home {
+    background: orange;
+    color: white;
+    padding: 60px;
+}
+
+section {
+    padding: 25px;
+}
+
+h2 {
+    color: #8b2500;
+}
+
+.items {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.items div {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+button {
+    background: #8b2500;
+    color: white;
+    padding: 10px;
+    border: none;
+}
+
+@media (max-width: 600px) {
+    nav a {
+        display: inline-block;
+        margin: 5px;
+    }
+}
 
